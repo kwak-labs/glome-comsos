@@ -8,6 +8,8 @@
   "license": "GPL0",
   "private": false,
   "dependencies": {
+    "@cosmjs/proto-signing": "^0.31.0",
+    "@cosmjs/stargate": "^0.31.0",
     "@fastify/autoload": "^5.7.1",
     "arweave": "^1.13.7",
     "blake2": "^5.0.0",
