@@ -1,3 +1,5 @@
+# GLOME-COSMOS IS NOT FINSHED, DO NOT USE
+
 # Glome
 
 [Setup guide](./SETUP.md)
